@@ -10,3 +10,10 @@ pre_build:
 
 build:
   dockerfile_name: Dockerfile
+
+deploy:
+  - application: mongo-client
+    cluster: 9f261723-0c01-451e-a989-8c53513baed5
+    partition: xi-test
+    containers:
+    - con-client
