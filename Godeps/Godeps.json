@@ -1,0 +1,55 @@
+{
+	"ImportPath": "github.com/superxi911/mongo-client",
+	"GoVersion": "go1.6",
+	"GodepVersion": "v62",
+	"Deps": [
+		{
+			"ImportPath": "github.com/Sirupsen/logrus",
+			"Comment": "v0.8.7-47-ga22723f",
+			"Rev": "a22723f16efea2e89b7bd67d10ed077c47c14eb4"
+		},
+		{
+			"ImportPath": "github.com/caicloud/fornax/pkg/log",
+			"Comment": "v4_Circle-13-gced3924",
+			"Rev": "ced392489a23957b1a41e04532b213a01dda41f2"
+		},
+		{
+			"ImportPath": "github.com/caicloud/fornax/pkg/osutil",
+			"Comment": "v4_Circle-13-gced3924",
+			"Rev": "ced392489a23957b1a41e04532b213a01dda41f2"
+		},
+		{
+			"ImportPath": "github.com/caicloud/fornax/pkg/wait",
+			"Comment": "v4_Circle-13-gced3924",
+			"Rev": "ced392489a23957b1a41e04532b213a01dda41f2"
+		},
+		{
+			"ImportPath": "github.com/satori/go.uuid",
+			"Rev": "d41af8bb6a7704f00bc3b7cba9355ae6a5a80048"
+		},
+		{
+			"ImportPath": "golang.org/x/sys/unix",
+			"Rev": "b776ec39b3e54652e09028aaaaac9757f4f8211a"
+		},
+		{
+			"ImportPath": "gopkg.in/mgo.v2",
+			"Comment": "r2015.06.03-5-g22287ba",
+			"Rev": "22287bab4379e1fbf6002fb4eb769888f3fb224c"
+		},
+		{
+			"ImportPath": "gopkg.in/mgo.v2/bson",
+			"Comment": "r2015.06.03-5-g22287ba",
+			"Rev": "22287bab4379e1fbf6002fb4eb769888f3fb224c"
+		},
+		{
+			"ImportPath": "gopkg.in/mgo.v2/internal/sasl",
+			"Comment": "r2015.06.03-5-g22287ba",
+			"Rev": "22287bab4379e1fbf6002fb4eb769888f3fb224c"
+		},
+		{
+			"ImportPath": "gopkg.in/mgo.v2/internal/scram",
+			"Comment": "r2015.06.03-5-g22287ba",
+			"Rev": "22287bab4379e1fbf6002fb4eb769888f3fb224c"
+		}
+	]
+}
