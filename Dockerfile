@@ -1,4 +1,4 @@
-FROM index.caicloud.io/caicloud/golang:1.6
+FROM index.caicloud.io/caicloud/ubuntu
 
 ENV MONGO_DB_IP mongo-server:27017
 
