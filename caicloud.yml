@@ -13,7 +13,7 @@ build:
 
 deploy:
   - application: mongo-client
-    cluster: 9f261723-0c01-451e-a989-8c53513baed5
-    partition: xi-test
+    cluster: b62ee1e0-c7b7-4931-af07-6c78edb97989
+    partition: mongo
     containers:
-    - con-client
+    - mongo-client
