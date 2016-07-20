@@ -4,6 +4,7 @@ pre_build:
     - .:/go/src/mongo-client
   commands:
     - cd /go/src/mongo-client
+    - ls
     - go build -v .
   outputs:
     - /go/src/mongo-client/mongo-client
