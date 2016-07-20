@@ -14,7 +14,7 @@ build:
 
 deploy:
   - application: mongo-client
-    cluster: b62ee1e0-c7b7-4931-af07-6c78edb97989
-    partition: mongo
+    cluster: 1012a341-3f1c-4b17-90da-444a9da694aa
+    partition: demo
     containers:
-    - mongo-client
+    - con-client
