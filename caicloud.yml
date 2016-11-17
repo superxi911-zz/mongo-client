@@ -1,5 +1,5 @@
 pre_build:
-  image: index.caicloud.io/caicloud/golang:1.6
+  image: cargo.caicloud.io/caicloud/golang:1.6
   volumes:
     - .:/go/src/mongo-client
   commands:
